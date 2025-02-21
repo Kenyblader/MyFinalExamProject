@@ -1,1 +1,2 @@
-# ceci est le readmi permetant de decrire mon projet
+# ceci est le readme permetant de decrire mon projet
+ mon Projet est un projet todo permetant de gerer ses tache a faire avec duree et des delais avec la possibilite de decomposer chaque tache en sous-tache de meme avec les sous-tache
